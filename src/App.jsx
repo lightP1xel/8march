@@ -3,6 +3,7 @@ import { MainImage } from "./Components/MainImage";
 import { ModalWin } from "./Components/Modal";
 import { EndText } from "./Components/EndText";
 import { MainText } from "./Components/MainText";
+import { VideoII } from "./Components/VideoIi";
 
 export const App = () => {
   return (
@@ -11,6 +12,7 @@ export const App = () => {
         <MainImage />
         <MainText />
         <ModalWin />
+        <VideoII />
         <EndText />
       </div>
     </div>
