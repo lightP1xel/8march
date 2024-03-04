@@ -1,5 +1,5 @@
 import React from "react";
-import flowers from "../../assets/flowers.jpg";
+import flowers from "../../assets/flowers.png";
 import style from "./style.module.css";
 
 export const MainImage = () => {

@@ -9,10 +9,11 @@ export const App = () => {
   return (
     <div className={style.container}>
       <div className={style.wrapper}>
-        <MainImage />
+        <VideoII />
+        {/* <MainImage /> */}
         <MainText />
         <ModalWin />
-        <VideoII />
+
         <EndText />
       </div>
     </div>

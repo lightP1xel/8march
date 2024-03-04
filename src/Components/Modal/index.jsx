@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Modal } from "antd";
-import flowers from "../../assets/flowers.jpg";
+import flowers from "../../assets/flowers.png";
 import cloud from "../../assets/cloud.png";
 import style from "./style.module.css";
 import { useSpring, animated } from "@react-spring/web";
